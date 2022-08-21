@@ -3,8 +3,6 @@
 <hr>
 <div>
 <p align="right">
-🔭 I’m currently working on Track Back  
-  
 
 - 🌱 I’m currently learning ReactJS  
   
