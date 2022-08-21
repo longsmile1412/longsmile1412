@@ -7,8 +7,7 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=longsmile1412&label=Profile%20views&color=0e75b6&style=flat" alt="longsmile1412" />
 <br />
-<br />
-<p align="right">
+
 🔭 I’m currently working on Track Back  
   
 - 🌱 I’m currently learning ReactJS  
@@ -16,8 +15,7 @@
 - ❓ Ask me about anything related to JavaScript and MERN  
 
 - ⚡ Fun fact: I am funny  
-  
-</p>
+
 
 
 ## My skill set and Programming language
