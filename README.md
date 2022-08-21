@@ -1,5 +1,5 @@
 [![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)](https://www.facebook.com/longdev2023)
-### <div align="center">Hello 👋 ! I'm a Font-End Developer 👨‍💻</div>  
+### <div align="center">Hello<img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">  I'm a Font-End Developer 👨‍💻</div>  
 <hr>
   <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=longsmile1412&label=Profile%20views&color=0e75b6&style=flat" alt="longsmile1412" /> </p>
@@ -18,7 +18,7 @@
 <br/>  
 
 
-## My Skill Set  
+## My skill set and Programming language
 <table><tr><td valign="top" width="33%">
 
 
@@ -50,9 +50,9 @@
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
-
-</td></tr></table>  
-
+</td>
+<img align="right" height="186em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=longsmile1412&layout=compact&langs_count=8&theme=algolia"/>
+</tr></table>  
 <br/>  
 
 
@@ -72,15 +72,17 @@
 </a>  
 </div>  
 
+## My Statistics
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=longsmile1412&&theme=dracula)](https://github.com/longsmile1412)
-
-
-<br/>  
-<div align="center">
-<p><img align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs?username=longsmile1412&show_icons=true&locale=en&layout=compact&theme=dracula" width="50%"/> </p>
-
-<p><img align = "left" src = "https://github-readme-stats.vercel.app/api?username=longsmile1412&show_icons=true&locale=en&theme=dracula" width="50%"/> </p>
-<p> <img align = "right" src = "https://github-readme-streak-stats.herokuapp.com/?user=longsmile1412&&theme=dracula" width="50%"/> 
+<br/>
+<p align="left">
+  <a href="https://longsmile1412.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=longsmile1412&show_icons=true&theme=dracula&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=longsmile1412&theme=dracula&hide_border=true" />
+  </a>
 </p>
-</div>
+<br>
+
+[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=longsmile1412&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://longsmile1412.dev)
+
+
