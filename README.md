@@ -1,7 +1,8 @@
 [![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)](https://www.facebook.com/longdev2023)
 ### <div align="center">Hello 👋 ! I'm a Font-End Developer 👨‍💻</div>  
+<hr>
   <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=longsmile1412&label=Profile%20views&color=0e75b6&style=flat" alt="longsmile1412" /> </p>
 🔭 I’m currently working on Track Back  
   
 
@@ -71,8 +72,15 @@
 </a>  
 </div>  
 
+
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=longsmile1412&&theme=dracula)](https://github.com/longsmile1412)
+
+
 <br/>  
-<div>
-<p><img align = "left" src = "https://github-readme-stats.vercel.app/api?username=longsmile1412&show_icons=true&locale=en" width="50%"/> </p>
-<p> <img align = "right" src = "https://github-readme-streak-stats.herokuapp.com/?user=longsmile1412&" width="50%"/> </p>
+<div align="center">
+<p><img align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs?username=longsmile1412&show_icons=true&locale=en&layout=compact&theme=dracula" width="50%"/> </p>
+
+<p><img align = "left" src = "https://github-readme-stats.vercel.app/api?username=longsmile1412&show_icons=true&locale=en&theme=dracula" width="50%"/> </p>
+<p> <img align = "right" src = "https://github-readme-streak-stats.herokuapp.com/?user=longsmile1412&&theme=dracula" width="50%"/> 
+</p>
 </div>
