@@ -51,7 +51,7 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 </td>
-<img align="right" height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=longsmile1412&layout=compact&langs_count=8&theme=algolia"/>
+<img align="right" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=longsmile1412&layout=compact&langs_count=8&theme=algolia"/>
 </tr></table>  
 <br/>  
 
