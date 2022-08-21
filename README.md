@@ -3,7 +3,7 @@
   I'm a Font-End Developer 👨‍💻</div>
 <hr>
 <div align="center">
-  <img align="left"
+  <img align="floatleft"
         src="https://komarev.com/ghpvc/?username=longsmile1412&label=Profile%20views&color=0e75b6&style=flat"
         alt="longsmile1412" /> 
 
