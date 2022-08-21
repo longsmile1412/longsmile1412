@@ -5,7 +5,7 @@
   <img align="center" alt="Coding" width="300" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
 </p>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=longsmile1412&label=Profile%20views&color=0e75b6&style=flat" alt="longsmile1412" /> </p> -->
-<p align="floatleft">
+<p align="floatleft" width="200">
 🔭 I’m currently working on Track Back  
   
 
