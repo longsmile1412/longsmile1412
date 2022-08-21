@@ -5,9 +5,9 @@
   <img 
         src="https://komarev.com/ghpvc/?username=longsmile1412&label=Profile%20views&color=0e75b6&style=flat"
         alt="longsmile1412" /> 
-<br />
-<br />
-🔭 I’m currently working on Track Back
+
+<p>
+  🔭 I’m currently working on Track Back
 
 
 - 🌱 I’m currently learning ReactJS
@@ -19,6 +19,7 @@
 - ⚡ Fun fact: I am funny
 <img align="right" width="300"
 src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
+</p>
 
 <br />
 <br />
