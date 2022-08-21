@@ -71,9 +71,9 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
 <br />
 <p align="left">
   <a href="https://longsmile1412.dev/">
-    <img width="49.5%"
+    <img width="100%"
       src="https://github-readme-stats.vercel.app/api?username=longsmile1412&show_icons=true&theme=dracula&hide_border=true" />
-    <img width="49.5%"
+    <img width="100%"
       src="https://github-readme-streak-stats.herokuapp.com/?user=longsmile1412&theme=dracula&hide_border=true" />
   </a>
 </p>
