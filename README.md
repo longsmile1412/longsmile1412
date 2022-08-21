@@ -2,14 +2,12 @@
 ### <div align="center">Hello<img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">
   I'm a Font-End Developer 👨‍💻</div>
 <hr>
-<div align="center">
   <img
         src="https://komarev.com/ghpvc/?username=longsmile1412&label=Profile%20views&color=0e75b6&style=flat"
         alt="longsmile1412" /> 
 
   <img width="300"
     src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
-</div>
 <br />
 <br />
 🔭 I’m currently working on Track Back
