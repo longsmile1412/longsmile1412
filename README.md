@@ -2,7 +2,7 @@
 ### <div align="left">Hello<img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">  I'm a Font-End Developer 👨‍💻</div>  
 <hr>
   <img align="center" alt="Coding" width="300" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=longsmile1412&label=Profile%20views&color=0e75b6&style=flat" alt="longsmile1412" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=longsmile1412&label=Profile%20views&color=0e75b6&style=flat" alt="longsmile1412" /> </p> -->
 🔭 I’m currently working on Track Back  
   
 
