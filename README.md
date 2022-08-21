@@ -2,11 +2,11 @@
 ### <div align="center">Hello<img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">
   I'm a Font-End Developer 👨‍💻</div>
 <hr>
-  <img 
+  <img width="49.5%"
         src="https://komarev.com/ghpvc/?username=longsmile1412&label=Profile%20views&color=0e75b6&style=flat"
         alt="longsmile1412" /> 
 
-  <img align="right" width="300"
+  <img align="right" width="49.5%"
     src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
 <br />
 <br />
