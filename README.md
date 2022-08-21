@@ -6,7 +6,7 @@
         src="https://komarev.com/ghpvc/?username=longsmile1412&label=Profile%20views&color=0e75b6&style=flat"
         alt="longsmile1412" /> 
 
-  <img align="right" height="130"
+  <img align="right" height="130em"
     src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
 <br />
 <br />
