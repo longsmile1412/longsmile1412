@@ -2,7 +2,7 @@
 ### <div align="center">Hello<img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">
   I'm a Font-End Developer 👨‍💻</div>
 <hr>
-<img align="auto" alt="Coding" width="400"
+<img align="auto" alt="Coding" width="300"
   src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
 <p align="left"> <img
     src="https://komarev.com/ghpvc/?username=longsmile1412&label=Profile%20views&color=0e75b6&style=flat"
