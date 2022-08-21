@@ -15,10 +15,9 @@
 - ❓ Ask me about anything related to JavaScript and MERN  
 
 - ⚡ Fun fact: I am funny  
+<br />
 
-
-
-## My skill set and Programming language
+### My skill set and Programming language
 <img align="right" height="162em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=longsmile1412&layout=compact&langs_count=8&theme=algolia"/>
 
 
