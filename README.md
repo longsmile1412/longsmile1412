@@ -6,7 +6,6 @@
 
 <p align="right">
 <img align="center"src="https://komarev.com/ghpvc/?username=longsmile1412&label=Profile%20views&color=0e75b6&style=flat" alt="longsmile1412" />
-</p>
 🔭 I’m currently working on Track Back  
   
 
@@ -18,6 +17,8 @@
 
 - ⚡ Fun fact: I am funny  
   
+
+</p>
 
 <br/>  
 <br/>  
