@@ -6,7 +6,9 @@
         src="https://komarev.com/ghpvc/?username=longsmile1412&label=Profile%20views&color=0e75b6&style=flat"
         alt="longsmile1412" /> 
 
-<p>
+
+        <img align="right" width="300"
+        src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
   🔭 I’m currently working on Track Back
 
 
@@ -17,9 +19,7 @@
 
 
 - ⚡ Fun fact: I am funny
-<img align="right" width="300"
-src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
-</p>
+
 
 <br />
 <br />
